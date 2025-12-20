@@ -1,0 +1,2 @@
+git checkout main #메인 브랜치 이동
+git pull origin main #mian 내용 가져옴
